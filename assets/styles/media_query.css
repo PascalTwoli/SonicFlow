@@ -20,7 +20,7 @@
   @media only screen and (max-width: 1200px) {
     .main-row-side-bar{
         max-width: 64px !important;
-        transition: 0.2s;
+        transition: 0.4s;
     }
 
     .i1 {
@@ -33,7 +33,7 @@
 
     .main-row-center{
       width: 93.5% !important;
-      transition: 0.2s;
+      transition: .5s ease-out;
     }
 
     .sidebar-footer .i1{
